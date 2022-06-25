@@ -56,7 +56,7 @@ public class tPrincipal extends javax.swing.JFrame {
 
         lblDelivery.setFont(new java.awt.Font("Book Antiqua", 3, 36)); // NOI18N
         lblDelivery.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblDelivery.setText("Delivery");
+        lblDelivery.setText("Helados Ice Cream");
 
         User.setBackground(new java.awt.Color(242, 196, 208));
         User.setFont(new java.awt.Font("Linux Libertine G", 3, 14)); // NOI18N

@@ -140,7 +140,7 @@
               <Font name="Book Antiqua" size="36" style="3"/>
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="Delivery"/>
+            <Property name="text" type="java.lang.String" value="Helados Ice Cream"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="User">
